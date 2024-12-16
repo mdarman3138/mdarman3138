@@ -11,3 +11,5 @@ mdarman3138/mdarman3138 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 cd <your-repo-folder>
+python -m venv venv
+source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
